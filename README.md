@@ -1,4 +1,4 @@
-#Covid19 Tracker builded with React by Redian Marku.
+##Covid19 Tracker builded with React by Redian Marku.
 
 ## Available Scripts
 
